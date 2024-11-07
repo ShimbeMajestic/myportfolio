@@ -169,15 +169,15 @@ footer {
 /* Keyframe for background change animation */
 @keyframes backgroundChange {
     0% {
-        background-image: url('/Projects/Portfolio/Images/back1.png');
+        background-image: url('./Images/back1.png');
     }
     33% {
-        background-image: url('/Projects/Portfolio/Images/back2.png');
+        background-image: url('./Images/back2.png');
     }
     66% {
-        background-image: url('/Projects/Portfolio/Images/back3.png');
+        background-image: url('./Images/back3.png');
     }
     100% {
-        background-image: url('/Projects/Portfolio/Images/back4.png');
+        background-image: url('./Images/back4.png');
     }
 }
