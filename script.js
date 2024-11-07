@@ -1,10 +1,10 @@
 document.addEventListener('DOMContentLoaded', function() {
     let header = document.querySelector('header');
     let images = [
-        '/Projects/Portfolio/Images/back1.png',
-        '/Projects/Portfolio/Images/back2.png',
-        '/Projects/Portfolio/Images/back3.png',
-        '/Projects/Portfolio/Images/back4.png'
+        './Images/back1.png',
+        './Images/back2.png',
+        './Images/back3.png',
+        './Images/back4.png'
     ];
     let currentIndex = 0;
 
